@@ -56,11 +56,20 @@
 # 🌐 Connect with me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/saurabh-tate-73288a358">
 <img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Tate-blue?style=for-the-badge&logo=linkedin" />
 </a>
-</p>
 
+<a href="https://github.com/SaurabhTate0106">
+<img src="https://img.shields.io/badge/GitHub-Saurabh%20Tate-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://wa.me/9637100449">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+</a>
+
+</p>
 ---
 
 # 🔥 Profile Views
