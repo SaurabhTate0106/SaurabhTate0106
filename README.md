@@ -25,26 +25,26 @@
 <h3 align="left">Skill Level:</h3>
 
 Java  
-![Java](https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-80%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 Spring Boot  
-![Spring](https://img.shields.io/badge/Spring_Boot-75%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-25%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 React JS  
-![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-25%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 Angular  
-![Angular](https://img.shields.io/badge/Angular-65%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-20%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 JavaScript  
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 HTML  
-![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 CSS  
-![CSS](https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-70%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 MySQL  
-![MySQL](https://img.shields.io/badge/MySQL-75%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-60%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
