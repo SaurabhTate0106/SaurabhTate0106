@@ -52,21 +52,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SaurabhTate0106&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhTate0106&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTate0106&layout=compact&theme=radical" />
-</p>
-
----
 
 # 🌐 Connect with me
 
