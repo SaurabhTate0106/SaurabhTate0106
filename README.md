@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Tate</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
