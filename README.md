@@ -69,6 +69,14 @@
 <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
 </a>
 
+<a href="mailto:saurabhtate0106@gmail.com">
+<img src="https://img.shields.io/badge/Email-Saurabh%20Tate-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://saurabhtate0106.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome" />
+</a>
+
 </p>
 ---
 
