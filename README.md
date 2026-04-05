@@ -22,20 +22,20 @@
 # 🚀 Skills & Knowledge Level
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-75%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-80%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-25%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-25%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-65%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-25%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-25%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-75%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-60%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-60%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
